@@ -26,14 +26,23 @@ Minesweeper is  generally a single-player (except here) puzzle video game. The o
 
 
 ### Gameplay Screenshots
-- **Single player mode** 
+- **Single player mode**
+- `Welcome Message and Help Guide` <br>
 ![Screenshot from 2024-01-19 17-09-04](https://github.com/DeshDeepakKant/minesweeper/assets/118960904/69db1f56-4a5c-46b1-9584-85e471554698)
+
+
 ![Screenshot from 2024-01-19 17-09-20](https://github.com/DeshDeepakKant/minesweeper/assets/118960904/d4d6260b-ae7b-4750-81db-076d858b40fa)
+
+
 ![Screenshot from 2024-01-19 17-09-30](https://github.com/DeshDeepakKant/minesweeper/assets/118960904/bc8b1fb0-04dc-4439-830b-de02c141ee54)
+
+
 ![Screenshot from 2024-01-19 17-09-45](https://github.com/DeshDeepakKant/minesweeper/assets/118960904/22eb4e3b-0b62-4a9a-8b2c-9766181cdb9b)
+
+
 ![Screenshot from 2024-01-19 17-09-56](https://github.com/DeshDeepakKant/minesweeper/assets/118960904/60dfc49a-353b-4584-a8f4-f6ef1834e78e)
 
-`Welcome Message and Help Guide` <br>
+
 
 
 
